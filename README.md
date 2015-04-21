@@ -1,5 +1,5 @@
 # simonesis
-A Genesis Child based on the Simone theme by Morten Rand-Hendriksen. Meant to be accessible and translation ready, built for the Genesis Framework. 
+A Genesis child theme based on the Simone theme by Morten Rand-Hendriksen. Meant to be accessible and translation ready, built for the Genesis Framework. 
 
 Oh, and for fun:-). 
 
